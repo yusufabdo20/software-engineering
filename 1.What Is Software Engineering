@@ -1,0 +1,29 @@
+"What Is Software Engineering"
+
+Introduction
+
+Purpose: Define software engineering, list responsibilities of software engineers, and compare software developers and engineers.
+Definition and Evolution
+
+Software Engineering: Application of scientific principles to systematically design, build, and test software based on business requirements.
+Historical Context: Emerged in the 1950s-60s, evolving from an ad hoc practice to a formalized engineering discipline.
+Software Crisis: From mid-1960s to mid-1980s, characterized by over-budget, delayed, and buggy software development. Resolved by adopting engineering principles and computer-aided software engineering (CASE) tools.
+Modern Practices
+
+Standardization: Consistent application of engineering principles and standardized methodologies like the Software Development Lifecycle (SDLC) for scalable, high-quality software solutions.
+CASE Tools: Categories include business analysis, development, verification, configuration management, metrics, and project management.
+Roles and Responsibilities
+
+Software Engineer:
+Broad Scope: Systematic, big-picture approach to software development.
+Tasks: Designing, building, maintaining systems, writing/testing code, consulting with stakeholders.
+Projects: Typically large-scale, system-wide focus.
+Software Developer:
+Narrow Scope: Creative problem-solving within specific functionalities.
+Tasks: Writing code to implement specific features within a system.
+Conclusion
+
+Key Takeaways:
+Software engineering is a systematic, scientific approach to software design and development.
+Responsibilities of software engineers include designing, building, and maintaining software systems, writing/testing code, and stakeholder consultation.
+Software engineers focus on entire systems, while developers focus on specific functionalities.
