@@ -1,0 +1,33 @@
+The Software Development Life Cycle (SDLC) comprises six distinct phases: planning, design, development, testing, deployment, and maintenance. Each phase is separate, meaning tasks from one phase do not overlap with tasks from another. Originally, the SDLC followed a linear "waterfall" model, but it has since adapted to accommodate iterative processes to handle changing requirements.
+
+Planning Phase:
+
+Activities: Gathering, analyzing, documenting, and prioritizing requirements.
+Considerations: User needs, data inputs/outputs, compliance, risk, quality assurance, resource allocation, and scheduling.
+Outputs: Prototypes (if needed) to refine requirements, Software Requirements Specification (SRS) document.
+Team: Project teams are identified, and roles are defined.
+Design Phase:
+
+Activities: Developing software architecture based on the SRS.
+Outputs: Design document, potential prototypes for stakeholder feedback.
+Team: Collaborative work among several team members.
+Development Phase:
+
+Activities: Coding based on the design document.
+Tools: Programming tools, languages, and software stacks.
+Standards: Organizations may have specific coding standards or guidelines to follow.
+Testing Phase:
+
+Activities: Thoroughly testing the code to ensure stability, security, and requirement compliance.
+Methods: Manual, automated, or hybrid testing.
+Levels: Unit testing, integration testing, system testing, and acceptance testing.
+Teams: Some projects have dedicated testing teams to manage this phase.
+Deployment Phase:
+
+Activities: Releasing the application to the production environment.
+Stages: Initially released to a User Acceptance Testing (UAT) platform for customer sign-off before full production release.
+Maintenance Phase:
+
+Activities: Identifying and fixing bugs, addressing UI issues, and suggesting code enhancements.
+Feedback: Collecting stakeholder feedback and integrating it into future development cycles if necessary.
+The video underscores the importance of each phase and how they interconnect, ensuring a structured approach to software development while allowing flexibility for evolving project needs.
