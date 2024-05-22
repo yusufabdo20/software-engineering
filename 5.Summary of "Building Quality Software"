@@ -1,0 +1,39 @@
+Summary of "Building Quality Software"
+Key Software Engineering Processes
+Requirements Gathering
+
+Involves collecting and documenting the software requirements, known as the Software Requirements Specification (SRS).
+SRS includes use cases that describe business needs and user flows.
+Requirements are categorized into functional, external and UI, system features, and non-functional.
+Design
+
+Transforms requirements into a structure that developers can implement using code.
+The technical lead defines the system architecture, breaking down requirements into components with defined behaviors, boundaries, and interactions.
+Design covers system functions, performance, security, platform characteristics, business rules, application logic, API design, user interfaces, and database design.
+Coding for Quality
+
+Focuses on producing maintainable, readable, testable, and secure code.
+Coding practices include following coding standards, using automated tools (linters), and commenting in the code.
+Quality code should meet software requirements without defects and be clean, consistent, and efficient.
+Testing
+
+Verifies that the software meets requirements and is free of bugs.
+Testing levels include unit, integration, system, and user acceptance (UAT).
+Types of testing are functional, non-functional, and regression.
+Proper testing ensures software reliability, security, performance, and efficiency.
+Releases
+
+Alpha Release: First functioning version for a select group, may contain errors and incomplete features.
+Beta Release: Limited release to external stakeholders for real-condition testing and bug identification.
+General Availability (GA) Release: Stable version for all users after addressing beta release feedback.
+Documentation
+
+System Documentation: For technical users (engineers, developers, architects), includes README files, comments, architecture/design documents, verification information, and maintenance guides.
+User Documentation: For non-technical users, includes user guides, instructional videos, manuals, online help, and inline help.
+Learning Outcomes
+After watching the video, you will be able to:
+
+List and describe common software engineering processes: requirements gathering, design, coding for quality, testing, releases, and documenting.
+Understand the importance of each process in building high-quality software.
+Recognize different types of software releases and their purposes.
+Appreciate the necessity of thorough documentation for both technical and non-technical users.
