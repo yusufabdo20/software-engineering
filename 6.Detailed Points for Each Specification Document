@@ -1,0 +1,73 @@
+Detailed Points for Each Specification Document
+Software Requirement Specification (SRS)
+Purpose Statement:
+
+Defines the intended use of the SRS.
+Identifies the document’s audience and scope.
+Constraints, Assumptions, and Dependencies:
+
+Constraints: Conditions like hardware limitations or standards the software must adhere to.
+Assumptions: Presumed conditions necessary for the software to operate, such as specific operating systems.
+Dependencies: Other software products or systems that the software relies on.
+Requirements Categories:
+
+Functional Requirements: Specific tasks or functions the software must perform.
+External Interface Requirements: Interactions between the software and other systems, users, or hardware.
+System Features: Core functionalities necessary for the software’s operation.
+Non-functional Requirements: Attributes such as performance metrics, security standards, and quality measures.
+User Requirement Specification (URS)
+User Stories:
+
+Written in a narrative format to capture end-user needs.
+Answers three key questions:
+Who is the user? Identifies the end-user or role that will use the functionality.
+What function needs to be performed? Describes the specific action or task the user needs.
+Why does the user want this functionality? Explains the purpose or benefit of the functionality to the user.
+User Acceptance Testing (UAT):
+
+Determines if the software meets the user requirements as specified in the URS.
+Ensures the end product fulfills user expectations and business needs.
+System Requirement Specification (SysRS)
+System Capabilities and Interfaces:
+
+Outlines what the entire system is capable of doing.
+Describes interactions between different system components and external systems.
+User Characteristics:
+
+Details the characteristics of the end-users, including skill levels and other relevant attributes.
+Policy and Regulation Requirements:
+
+Specifies any regulatory or policy-related requirements the system must comply with.
+Personnel Requirements:
+
+Identifies the staffing and skill requirements necessary for system operation and maintenance.
+Performance Requirements:
+
+Sets performance standards and benchmarks the system must achieve.
+Security Requirements:
+
+Defines the security measures and protocols necessary to protect the system and its data.
+Hardware Requirements:
+
+Specifies the hardware needed to support the system’s software components.
+System Acceptance Criteria:
+
+Establishes the criteria for system acceptance, including performance, security, and compliance checks.
+Conclusion
+After watching the video, you should be able to:
+
+Describe the Steps of the Requirement Gathering Process:
+
+Identify stakeholders, establish goals and objectives, elicit, document, confirm, and prioritize requirements.
+Explain the Purpose of a User Requirement Specification (URS) Document:
+
+Captures user stories and expectations.
+Serves as a basis for user acceptance testing.
+Explain the Purpose of a Software Requirement Specification (SRS) Document:
+
+Details functional, external, system, and non-functional requirements.
+Serves as a comprehensive guide for software development and performance benchmarks.
+Explain the Purpose of a System Requirement Specification (SysRS) Document:
+
+Outlines system capabilities, interfaces, user characteristics, and various requirements (policy, regulation, personnel, performance, security, and hardware).
+Provides a broader scope encompassing the entire system’s requirements.
