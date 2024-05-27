@@ -1,0 +1,88 @@
+Summary of Software Development Methodologies
+Common Approaches to Software Development Life Cycle (SDLC)
+Waterfall Method
+V-Shape Model
+Agile Methods
+Detailed Explanation of Each Method
+1. Waterfall Method
+Description: Sequential development method where the output of one phase is the input for the next.
+Phases:
+Requirements
+Design
+Implementation
+Testing
+Deployment
+Maintenance
+Characteristics:
+All planning is done upfront.
+The customer sees the product only in the testing phase.
+Major releases have long intervals, often years.
+Pros:
+Easy to understand and follow.
+Well-defined stages make roles clear.
+Easier to estimate budget and resources.
+Cons:
+Lacks flexibility.
+Hard to incorporate changes once the process has started.
+Unforeseen complications are difficult to address.
+2. V-Shape Model
+Description: Sequential method similar to Waterfall, with a focus on verification and validation.
+Phases:
+Verification (left side of the V):
+Planning
+System Design
+Architecture Design
+Module Design
+Coding (bottom of the V)
+Validation (right side of the V):
+Unit Testing
+Integration Testing
+System Testing
+Acceptance Testing
+Characteristics:
+Each verification phase corresponds with a validation phase.
+Test plans are created during verification and executed during validation.
+Pros:
+Simple and easy to use.
+Saves time during coding and validation by early test planning.
+Cons:
+Very rigid and does not accommodate changing requirements.
+Difficult to change functionality once testing has started.
+3. Agile Methods
+Description: Iterative and collaborative approach focusing on short development cycles called sprints.
+Phases in Each Sprint:
+Planning
+Design
+Coding
+Unit Testing
+Feedback
+Characteristics:
+Sprints typically last 1-4 weeks.
+At the end of each sprint, a chunk of working code is released in a sprint demo.
+Feedback is gathered and incorporated in subsequent sprints.
+Development of a Minimum Viable Product (MVP) for early stakeholder feedback.
+Core Values (Agile Manifesto):
+Individuals and interactions over processes and tools.
+Working software over comprehensive documentation.
+Customer collaboration over contract negotiation.
+Responding to change over following a plan.
+Pros:
+Handles new and changing requirements quickly.
+Continuous stakeholder and customer feedback.
+Modular design allows integration of small code chunks.
+Cons:
+Difficult to estimate budget and schedule upfront due to undefined overall scope.
+Resource allocation can be challenging.
+Comparison of the Three Methods
+Waterfall and V-Shape Models:
+Sequential and rigid.
+Easy to implement but not flexible with changes.
+Long intervals between releases.
+Agile:
+Iterative and flexible.
+Frequent releases with continuous feedback.
+Challenges in planning and resource allocation.
+Key Takeaways
+The Waterfall and V-Shape models are structured and easy to understand but do not handle changes well.
+Agile is more flexible and better suited for modern software development, allowing for quick adaptation to changing requirements.
+Each methodology has its own set of advantages and disadvantages, and the choice of methodology depends on the specific needs and constraints of the project.
