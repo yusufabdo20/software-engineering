@@ -1,0 +1,24 @@
+Overview of Web and Cloud Development
+Basics of Web Interaction
+Browsers: Popular ones include Google Chrome, Microsoft Edge, Mozilla Firefox, and Apple Safari.
+URL Request: Entering a URL (e.g., www.IBM.com) makes the browser request information from the server.
+Server Response: The server sends HTML (structure), CSS (style), and JavaScript (interactivity).
+Website Content
+Static Elements: Previously stored on the server.
+Dynamic Elements: Generated upon request, often involving databases.
+Websites typically combine static and dynamic elements for optimal user experience.
+Cloud Applications
+Similar to websites but built for cloud-based infrastructure, offering scalability and resilience.
+Development Environments
+Front-End: Client-side, visible and interactive elements using HTML, CSS, JavaScript, and related tools.
+Back-End: Server-side logic, functionality, and security, often involving databases.
+Full-Stack: Knowledge in both front-end and back-end development.
+Tools for Developers
+Code Editors: Basic tool for writing code.
+IDEs (Integrated Development Environments): Provide additional capabilities like integration, building, compiling, and debugging.
+Examples: Sublime Text, Atom, Vim, VS Code, Visual Studio, Eclipse, NetBeans.
+Key Takeaways
+Communication between clients and servers.
+Website construction and display processes.
+Roles of front-end, back-end, and full-stack development.
+Importance of IDEs for managing code.
